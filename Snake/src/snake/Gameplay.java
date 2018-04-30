@@ -99,7 +99,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener{
         g.drawRect(24, 74, 851, 577);
         
         // background
-        g.setColor(Color.GREEN);
+        g.setColor(Color.DARK_GRAY);
         g.fillRect(25, 75, 850, 575);
         
         // draw info P
